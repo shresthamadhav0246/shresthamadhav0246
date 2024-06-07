@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Madhab Shrestha</h1>
 <h3 align="center">I am a software engineer with a passion for Web 3.0 development. I specialize in building decentralized applications (dApps) and smart contracts.</h3>
 
-- 🔭 I’m currently working on [NFT Marketplace](https://main--cryptocanvasmarket.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://madhabshrestha.netlify.app/](https://madhabshrestha.netlify.app/)
 
 - 📫 How to reach me **shresthamadhav0246@gmail.com**
+
+  ## 🚀 Projects
+- [NFT Marketplace](https://main--cryptocanvasmarket.netlify.app/): A marketplace for creating, buying, and selling NFTs with real time chat feature, built with NEXT.js, Solidity and Node.js.
+- [Crowdfunding Platform](https://crowdcoincollect.netlify.app/): A decentralized crowdfunding platform allowing users to create and fund projects securely using smart contracts.
+
+## 🌱 Currently Learning
+- Advanced Solidity patterns
+- Layer 2 solutions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
